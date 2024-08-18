@@ -3,11 +3,11 @@ Test desenvolvedor Full stack
 
 Readme projeto
 
-Node.js (with npm or yarn)
-MongoDB
-React
-axios
-express
+- Node.js 
+- MongoDB
+- React
+- axios
+- express
 
 Executando o aplicativo:
 Inicie o servidor MongoDB (se ainda não estiver em execução):
